@@ -1,3 +1,1 @@
-# project
-our project
-local operations
+read manuals
